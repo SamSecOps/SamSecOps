@@ -1,37 +1,46 @@
-# Samuel Agboola
+<!-- Animated typing header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Samuel+Agboola;Cybersecurity+Graduate+%7C+Security+Operations+Center+Track;Threat+Monitoring+%7C+Incident+Response+Fundamentals;Network+Traffic+Analysis+%7C+Python+for+Security" />
+</p>
 
-🔐 Cybersecurity Graduate | SOC (Security Operations Center) Analyst Track | Threat Detection, Monitoring, and Response
+<!-- Quick badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Defensive%20Security-blue" />
+  <img src="https://img.shields.io/badge/Graduation-May%202026-success" />
+</p>
 
-I am a cybersecurity graduate student (graduating May 2026) building hands-on capability in defensive security. My focus is security monitoring, alert triage, and incident response fundamentals, backed by practical labs in network traffic analysis and security tooling.
+## 🔐 About Me
+I am a cybersecurity graduate student building practical defensive security capability through hands-on labs and projects. My focus is security monitoring, alert triage, network traffic analysis, and incident response fundamentals.
 
-## 🧭 Focus Areas
+## 🧩 Focus Areas
 - 🛰️ Security monitoring and alert triage (Security Information and Event Management concepts)
-- 🧩 Threat intelligence fundamentals and indicator correlation
-- 🧠 Cyber kill chain awareness for investigation thinking
-- 🧪 Network traffic analysis and protocol behavior (Transmission Control Protocol/Internet Protocol)
-- 🧾 Governance, Risk, and Compliance basics (controls, evidence, audit readiness)
+- 🧠 Investigation mindset using cyber kill chain thinking
+- 🌐 Network traffic analysis (Transmission Control Protocol and Internet Protocol behavior)
+- 🧾 Governance, Risk, and Compliance fundamentals (controls and evidence)
 
-## 🛠️ Practical Work (Labs and Projects)
-- 🐍 Packet sniffing and spoofing labs using Python and Scapy
-- 🧷 Raw socket experiments and traffic inspection workflows
-- 🧰 Security event investigation write-ups with clear documentation and escalation logic
-- 🧬 Deepfake detection research experiments (model comparison and evaluation)
+## 🧪 Labs and Projects
+- 🐍 Packet sniffing and spoofing labs (Python and Scapy)
+- 🔎 Traffic inspection and protocol behavior write-ups
+- 🧬 Deepfake detection experiments (model comparison and evaluation)
 
-## ⚙️ Tools and Technologies
-- 🐧 Linux | 🪟 Windows
-- 🐍 Python | Bash
-- 🌐 Wireshark | tcpdump
-- ☁️ Amazon Web Services and Microsoft 365 security concepts
-- 📊 Reporting and documentation for technical and non-technical audiences
+## 📊 GitHub Snapshot
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+</p>
 
-## 🎯 Current Goal
-Preparing for Optional Practical Training (OPT) roles in Security Operations Center (SOC) analysis, with emphasis on detection thinking, investigation discipline, and clear reporting.
+<!-- Optional: Streak card -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+</p>
 
-## 📌 Highlights
-- Strong documentation habit: every lab includes steps, results, and “what it means”
-- Comfortable explaining network behaviors and security concepts clearly
-- Focused on truth, repeatability, and defendable results
+## 🐍 Contribution Snake (animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ## 🤝 Connect
-- LinkedIn: add-link-here
-- Email: add-email-here
+- LinkedIn: add-your-link
+- Email: add-your-email
+
