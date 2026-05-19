@@ -1,6 +1,6 @@
 # Samuel Agboola
 
-Cybersecurity Graduate | Defensive Security | Security Operations | Incident Response
+Cybersecurity Analyst | Defensive Security | Security Operations | Incident Response
 
 I am a cybersecurity analyst building practical defensive security skills through hands-on labs and projects. My focus includes security monitoring, alert triage, network traffic analysis, digital forensics, malware analysis, and incident response fundamentals.
 
