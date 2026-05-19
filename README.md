@@ -1,17 +1,8 @@
-<!-- Animated typing header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Samuel+Agboola;Cybersecurity+Graduate+%7C+Security+Operations+Center+Track;Threat+Monitoring+%7C+Incident+Response+Fundamentals;Network+Traffic+Analysis+%7C+Python+for+Security" />
-</p>
+# Samuel Agboola
 
-<!-- Quick badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Defensive%20Security-blue" />
-  <img src="https://img.shields.io/badge/Graduation-May%202026-success" />
-</p>
+Cybersecurity Graduate | Defensive Security | Security Operations | Incident Response
 
-## 🔐 About Me
-I am a cybersecurity graduate student building practical defensive security capability through hands-on labs and projects. My focus is security monitoring, alert triage, network traffic analysis, and incident response fundamentals.
+I am a cybersecurity analyst building practical defensive security skills through hands-on labs and projects. My focus includes security monitoring, alert triage, network traffic analysis, digital forensics, malware analysis, and incident response fundamentals.
 
 ## 🧩 Focus Areas
 - 🛰️ Security monitoring and alert triage (Security Information and Event Management concepts)
@@ -35,12 +26,14 @@ I am a cybersecurity graduate student building practical defensive security capa
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake (animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+## Selected Projects
+
+- Security monitoring lab using Splunk and Windows event logs
+- Malware traffic analysis using Wireshark and INetSim
+- Vulnerability assessment lab using Tenable Nessus
+- Digital forensics practice using FTK Imager and Autopsy
 
 ## 🤝 Connect
-- LinkedIn: add-your-link
-- Email: add-your-email
+- LinkedIn: linkedin.com/in/samuel-agboola-msc-4552142b
+- Email: samuel.agboola789@gmail.com
 
