@@ -1,39 +1,88 @@
-# Samuel Agboola
+# Samuel Agboola  Cybersecurity Analyst
 
-Cybersecurity Analyst | Defensive Security | Security Operations | Incident Response
+👋 Hello! I’m **Samuel Agboola**, a results-driven Cybersecurity Analyst with four years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
-I am a cybersecurity analyst building practical defensive security skills through hands-on labs and projects. My focus includes security monitoring, alert triage, network traffic analysis, digital forensics, malware analysis, and incident response fundamentals.
+---
 
-## 🧩 Focus Areas
-- 🛰️ Security monitoring and alert triage (Security Information and Event Management concepts)
-- 🧠 Investigation mindset using cyber kill chain thinking
-- 🌐 Network traffic analysis (Transmission Control Protocol and Internet Protocol behavior)
-- 🧾 Governance, Risk, and Compliance fundamentals (controls and evidence)
+## 🛡 Project Highlights
 
-## 🧪 Labs and Projects
-- 🐍 Packet sniffing and spoofing labs (Python and Scapy)
-- 🔎 Traffic inspection and protocol behavior write-ups
-- 🧬 Deepfake detection experiments (model comparison and evaluation)
+### Lab Foundations
+- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
 
-## 📊 GitHub Snapshot
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
 
-<!-- Optional: Streak card -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
+### Identity & Access Security
+- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+- **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy
 
-## Selected Projects
+### Vulnerability & Risk Management
+- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
+- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
+- **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
-- Security monitoring lab using Splunk and Windows event logs
-- Malware traffic analysis using Wireshark and INetSim
-- Vulnerability assessment lab using Tenable Nessus
-- Digital forensics practice using FTK Imager and Autopsy
+### Detection & Monitoring
+- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
 
-## 🤝 Connect
-- LinkedIn: linkedin.com/in/samuel-agboola-msc-4552142b
-- Email: samuel.agboola789@gmail.com
+
+### Threat Hunting & Framework Mapping
+- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+
+### Social Engineering Defence
+- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
+- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
+
+### Offensive Security Simulations
+- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
+
+### Malware & Exploit Analysis
+- **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
+- **Malicious PDF Analysis** – Payload extraction and script dissection
+
+
+
+---
+
+## Tools & Skills
+
+- VirtualBox, VMware, AWS Free Tier
+- Wireshark, Nmap, Nessus, Nikto, sqlmap
+- Wazuh, Suricata, Elastic Stack, Splunk
+- Kali Linux, Windows Server, Ubuntu, pfSense
+- Git, GitHub, Markdown documentation
+
+---
+
+## Featured Repositories
+
+| Folder | Description | Link |
+|--------|-------------|------|
+| 01-IAM-On-Prem-Using-Active-Directory | Installing and hardening Active Directory | [View Repo](#) |
+| 02-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Psalms1234/AWS-Repo) |
+| 03-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
+| 04-vulnerability-Management-(Physical-Assets) | Network and web-app scanning with Nessus | [View Repo](#) |
+| 05-vulnerability-Management-(Virtual-Assets) | Cloud(AWS/Azure/GCP) Sanning with Prowler | [View Repo](#) |
+| 06-threat-hunting (MITRE) | ATT&CK-aligned threat hunting scripts | [View Repo](#) 
+| 07-Penetration Testing | Network/Web app offensive security testing using spiderfoot/nmap/metasploit/cve | [View Repo](#) |
+| 08-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 09- SIEM | Splunk event monitoring & detection | [View Repo](#) |
+| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 13-Threat-Modeling | Threat Dragon and Windows Threat Modeling Tool | [View Repo](#) |
+| 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+
+
+---
+
+## Contact
+
+- **LinkedIn:** linkedin.com/in/sam-agboola789/
+- **Email:** samuel.agboola789@gmail.com  
+
+---
+
+> “Cybersecurity is not only a discipline, it is a mindset.”
+
+Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star.
+
+
 
