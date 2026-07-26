@@ -56,7 +56,7 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-IAM-On-Prem-Using-Active-Directory | Installing and hardening Active Directory | [View Repo](https://github.com/SamSecOps/IAM-On-prem-Using-Active-Directory) |
-| 02-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Psalms1234/AWS-Repo) |
+| 02-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/SamSecOps/AWS-Deployment/blob/main/README.md) |
 | 03-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/SamSecOps/Security-Policy-Development) |
 | 04-vulnerability-Management-(Physical-Assets) | Network and web-app scanning with Nessus | [View Repo](#) |
 | 05-vulnerability-Management-(Virtual-Assets) | Cloud(AWS/Azure/GCP) Sanning with Prowler | [View Repo](#) |
